@@ -9,7 +9,7 @@ A team of developers building powerful tools and modifications for Discord.
 | **RMS** | A feature-rich Discord client modification | [github.com/zxkuhl/RMS](https://github.com/zxkuhl/RMS) |
 | **RMSTop** | A custom Discord desktop app built on top of RMS | [github.com/zxkuhl/RMSTop](https://github.com/zxkuhl/RMSTop) |
 | **RMSWeb** | A browser extension version of RMS | can be found in discord i will get it on github. |
-| **RMSDroid** | A Android version of RMS | can be found in discord i will get it on github. SOON! |
+| **RMSDroid** | A Android version of RMS | [github.com/RMS-Studios/RMSDroid](https://github.com/RMS-Studios/RMSDroid) |
 
 ## Links
 

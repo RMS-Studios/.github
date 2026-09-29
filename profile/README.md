@@ -1,6 +1,6 @@
 # RMS Studios
 
-A team of developers building powerful tools and modifications for Discord.
+A team of developers building powerful things
 
 ## Projects
 
